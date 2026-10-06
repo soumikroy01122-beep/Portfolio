@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Website
 
-👉 https://soumikroy01122-beep.github.io/soumikroy01122/
+👉 https://soumikroy01122-beep.github.io/Portfolio/
 
 ---
 
